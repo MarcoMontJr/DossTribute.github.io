@@ -1,0 +1,27 @@
+body {
+    background-color: #e6dddd;
+}
+
+.footer-center {
+    margin-left: 50%;
+}
+
+.justified {
+    text-align: justify;
+}
+
+.Speech {
+    font-size: 150%;
+}
+
+.textSpeech {
+    font-size: 100%;
+}
+
+h1 {
+    font-family: Calibri;
+}
+
+h2 {
+    font-size: 100%;
+}
